@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Entity-Relationship Diagram](https://github.com/user-attachments/assets/072ef07f-c14f-4c7e-95df-4c159d9da5ab)
+## Hi mate! 👋
 
 <!--
 **ivanseldas/ivanseldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
